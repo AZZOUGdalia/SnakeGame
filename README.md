@@ -15,3 +15,19 @@ Petit **Snake** en Python (module `turtle`) — pratique pour jouer *et* le tran
 ## 🚀 Lancer le jeu
 ```bash
 python snake_game.py
+
+
+
+Testé sur Python 3.13 (Windows). Pense à cliquer dans la fenêtre pour donner le focus au clavier.
+
+⌨️ Contrôles
+
+Z ou W ou ↑ : haut
+
+Q ou A ou ← : gauche
+
+S ou ↓ : bas
+
+D ou → : droite
+
+Esc : quitter proprement
